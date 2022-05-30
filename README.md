@@ -1,3 +1,5 @@
 GetPhotoMessage
+#
 getphoto通过python爬虫从bing图库中爬取需要指定的图片作为训练图集
+#
 run1和run2将生成的xml文件转换为.txt文件供YOLOv5进行训练
